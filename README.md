@@ -1,6 +1,8 @@
 ![Python version](https://github.com/afstyles/OxfordRSE_ci_course/workflows/Python%20version/badge.svg)
 ![Windows macOS and Linux](https://github.com/afstyles/OxfordRSE_ci_course/workflows/Windows%20macOS%20and%20Linux/badge.svg)
 ![Coverage](https://github.com/afstyles/OxfordRSE_ci_course/workflows/Coverage/badge.svg)
+[![codecov](https://codecov.io/gh/afstyles/OxfordRSE_ci_course/branch/master/graph/badge.svg)](https://codecov.io/gh/afstyles/OxfordRSE_ci_course)
+
 
 # OxRSE Continuous Integration course
 
