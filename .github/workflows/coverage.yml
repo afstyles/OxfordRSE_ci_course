@@ -31,6 +31,6 @@ jobs:
       - name: Run codecov
         if: success()
         env:
-          CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
+          CODECOV_TOKEN: ${{ secrets.CODECOVE_TOKEN }}
         run: |
           codecov
